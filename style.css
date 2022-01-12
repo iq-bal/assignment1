@@ -1,0 +1,103 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ubuntu', sans-serif; 
+}
+#vision-2022{
+    border-left: red 3px solid;
+    border-radius: 2px;
+}
+section{
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+}
+.mission{
+    border-radius: 10px;
+    background-color: rgba(0,181,226,0.1);
+    margin-right: 20px;
+}
+.vision{
+    border-radius: 10px;
+    background-color: rgba(236,230,61,0.1);
+    margin-right: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.goal{
+    border-radius: 10px;
+    background-color: rgba(245,218,223,0.3)
+}
+.mission-vision-goal{
+    padding: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ubuntu', sans-serif;
+}
+.first-sec-text{
+    padding-right: 400px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.footer{
+    background-color: #000034;
+    color: white;
+    padding: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ubuntu', sans-serif;
+}
+.third-sec-pic{
+    padding-right: 30px;
+    
+}
+.third-sec-text{
+    padding-left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.anchor{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #C70039 ;
+    border-radius: 4px;
+
+}
+.fourth-sec-text{
+    padding-right: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.fourth-sec-pic{
+    padding-left: 30px;
+    
+}
+.fifth-sec-text{
+    padding-left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.fifth-sec-pic{
+    padding-right: 30px;
+    
+}
+.first-sec-text{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
